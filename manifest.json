@@ -2,7 +2,7 @@
     "item": {
         "name": "Starfield Chronomark",
         "description": "游戏《Starfield》典藏版附赠手表表盘复刻",
-        "preview": ["preview.png", "preview2.png"],
+        "preview": ["preview.png"],
         "icon": "icon.png",
         "source_url": "",
         "author": [{
